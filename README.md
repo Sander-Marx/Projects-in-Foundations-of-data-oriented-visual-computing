@@ -1,13 +1,13 @@
-# Projects in Foundations of data-oriented visual computing
+# Foundations of Data-Oriented Visual Computing Projects
 
-Topics: PCA, SVD, VISUALIZATION, DATA SCIENCE
+- **Topics:** PCA, SVD, Visualization, Data Science
+- **Programming Language:** MATLAB
 
-Programminglanguage: MATLAB
+## Projects
 
-Projects:
+1. **Data Science Project on Snakes & Ladders Board Game**
+2. **Singular Value Decomposition of Wikipedia Articles**
+3. **Splines**
+4. **Gradient Descent**
+5. **Visualization of Norwegian Migration Data**
 
-1: Data science project on Snakes & Ladders board game
-2: Singular Value decomposition of Wikipedia articles
-3: Splines
-4: Gradient descent
-5: Visualization of Norwegian migration data
